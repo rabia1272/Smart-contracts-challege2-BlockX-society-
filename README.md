@@ -1,2 +1,2 @@
 # smart-contracts-challege2-BlockX-society-
-this implies for the usage of safemath, pausable and ownable library
+This is a smart contract which uses the ownable and pausable fucntionality. the contract is adding a variable in it using the safeMath library
